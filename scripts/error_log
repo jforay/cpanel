@@ -1,0 +1,80 @@
+[06-Mar-2024 20:56:54 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 20:57:26 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 20:58:20 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 20:59:10 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 20:59:46 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 21:01:01 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 21:06:48 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119
+[06-Mar-2024 21:09:07 UTC] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php:2119
+Stack trace:
+#0 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1937): PHPMailer->mailSend('Date: Wed, 6 Ma...', '<style>\n    th,...')
+#1 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(1810): PHPMailer->postSend()
+#2 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(4774): PHPMailer->send()
+#3 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(246): FormMail->sendMail('destinationboat...', 'john@intergraph...', '', '', 'Destination Boa...', '<style>\n    th,...', true, 'destinationboat...')
+#4 /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php(42): FormProcessor->_formSubmission(Array)
+#5 /home/f5o6gpwviq7a/public_html/scripts/form-94ea-e1ad.php(93): FormProcessor->process(Array)
+#6 {main}
+  thrown in /home/f5o6gpwviq7a/public_html/scripts/FormProcessor.php on line 2119

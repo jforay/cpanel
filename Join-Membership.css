@@ -1,0 +1,131 @@
+ .u-section-1 {
+  background-image: url("images/LakeWylie1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 814px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Enter-Sansman-Bold-Italic;
+  text-shadow: 4px 5px 8px rgba(0,0,0,1);
+  margin: 244px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 660px;
+  height: auto;
+  background-image: none;
+  min-height: 518px;
+  margin: -1px 312px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 684px;
+  margin: 0 18px 0 12px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 921px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 298px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 26px;
+    margin-right: auto;
+    margin-bottom: 26px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 515px;
+    width: 598px;
+    margin: 9px auto -6px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 952px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 11px;
+    margin-bottom: -8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1005px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 929px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 13px;
+    margin-bottom: 34px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 16px;
+    margin-bottom: -13px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}@font-face {
+  font-family: 'Enter-Sansman-Bold-Italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Enter-Sansman-Bold-Italic.woff);
+}

@@ -1,0 +1,118 @@
+ .u-section-1 {
+  background-image: url("images/diabilities-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-shadow: 5px 7px 8px rgba(0,0,0,0.65);
+  font-weight: bold;
+  margin: 314px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 708px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 55px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 766px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 331px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  width: 803px;
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  width: 803px;
+  font-size: 1.125rem;
+  margin: 28px auto 60px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'Enter-Sansman-Bold-Italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Enter-Sansman-Bold-Italic.woff);
+}

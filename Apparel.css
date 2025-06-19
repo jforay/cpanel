@@ -1,0 +1,35 @@
+.collage-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+}
+
+.collage-item {
+width: 300px;
+max-width: 100%;
+background: white;
+border-radius: 10px;
+overflow: hidden;
+box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+transition: transform 0.2s ease;
+}
+
+.collage-item:hover {
+  transform: scale(1.03);
+}
+
+.collage-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.collage-caption {
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: #f8f8f8;
+}

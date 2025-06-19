@@ -1,0 +1,152 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/YAH29763.jpg');
+  background-position: 50% 50%;
+  padding: 0;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1302px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 540px;
+  font-size: 1.875rem;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 570px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 660px;
+  height: auto;
+  background-image: none;
+  min-height: 666px;
+  margin: 48px 311px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 512px;
+  width: 570px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1124px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 513px;
+    height: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -758px;
+    margin-right: 266px;
+    margin-left: 304px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 927px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 280px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 166px;
+    margin-left: 204px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 710px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 60px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 56px;
+    margin-left: 94px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 533px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 336px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: 601px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: -846px;
+    width: 320px;
+  }
+}@font-face {
+  font-family: 'Enter-Sansman-Bold-Italic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Enter-Sansman-Bold-Italic.woff);
+}
